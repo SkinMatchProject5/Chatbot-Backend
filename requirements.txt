@@ -1,0 +1,9 @@
+fastapi==0.112.2
+uvicorn==0.30.6
+pydantic==2.9.1
+pydantic-settings==2.6.1
+python-dotenv==1.0.1
+openai==1.43.0
+# Pin httpx to a version compatible with OpenAI 1.x client
+httpx==0.27.2
+orjson==3.10.7
